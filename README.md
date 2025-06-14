@@ -93,6 +93,9 @@ Screenshots
 
 Sign In Page
 ![Sign in Screenshot](./logs/src/1.png)
+
+Onboarding Page
+
 ![Onboard Screenshot](./logs/src/2.png)
 ![Onboard Screenshot](./logs/src/3.png)
 ![Onboard Screenshot](./logs/src/4.png)
