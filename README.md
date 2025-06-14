@@ -87,3 +87,13 @@ hriday-internship/
 - `npm start` - Start production server
 - `npm test` - Run tests
 - `npm run lint` - Run linter
+
+
+Screenshots
+![Sign in Screenshot](./logs/src/1.png)
+![Onboard Screenshot](./logs/src/2.png)
+![Onboard Screenshot](./logs/src/3.png)
+![Onboard Screenshot](./logs/src/4.png)
+![Dashboard Screenshot](./logs/src/5.png)
+
+
