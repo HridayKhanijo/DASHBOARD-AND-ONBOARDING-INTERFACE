@@ -99,6 +99,9 @@ Onboarding Page
 ![Onboard Screenshot](./logs/src/2.png)
 ![Onboard Screenshot](./logs/src/3.png)
 ![Onboard Screenshot](./logs/src/4.png)
+
+dashboard Page
+
 ![Dashboard Screenshot](./logs/src/5.png)
 
 
