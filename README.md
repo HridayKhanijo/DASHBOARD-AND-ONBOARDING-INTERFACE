@@ -1,4 +1,4 @@
-# Hriday Internship Project
+# HRIDAY KHANIJO Internship Project
 
 A full-stack onboarding and dashboard application with user authentication.
 
